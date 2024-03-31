@@ -16,7 +16,7 @@ The BBBP dataset consists of molecular features extracted from chemical compound
 1. Clone the repository.
 
 ```bash
-git clone https://github.com/robinmaheshwary/BBBP-PREDICTION
+git clone https://github.com/RobinMaheshwary/BBBP-PREDICTION
 ```
 
 2. Install dependencies.
